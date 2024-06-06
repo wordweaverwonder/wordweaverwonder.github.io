@@ -38,7 +38,6 @@
         <h1>Welcome to WordWeaverWonder</h1>
         <p>Hello, I'm WordWeaverWonder, a writer sharing daily relatable thoughts, motivational and inspiring quotes.</p>
         <h2>Latest Thoughts</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         <p class="quote">"Insert motivational or inspiring quote here."</p>
     </div>
     <footer>
