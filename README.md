@@ -57,7 +57,7 @@
                 <blockquote>"Insert motivational or inspiring quote here."</blockquote>
             </div>
             <p>Keep checking back for more!</p>
-            <a href="C:\Users\BST\Downloads" class="download-btn" download>Download My Writing Portfolio (PDF)</a>
+            <a href="file:///C:/Users/BST/Downloads/Daily%20Journal%20E-Book.pdf" class="download-btn" download>Download My Writing Portfolio (PDF)</a>
         </section>
     </div>
 </body>
